@@ -10,10 +10,10 @@ I’m interested in Python, SQL, Data Analysis, AI, Machine learning.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaHang&layout=compact&theme=dark)
 
 ### Technologies I've worked with
-<table border="10" cellspacing="10" cellpadding="10">
+<table border="0" cellspacing="10" cellpadding="10">
   <tr>
     <td align="center" valign="top">
-      <strong>💻 Lenguages</strong>
+      <strong>💻 Languages</strong>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
